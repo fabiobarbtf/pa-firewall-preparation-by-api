@@ -29,6 +29,19 @@ To use the <Palo Alto Firewall Preparation by API>, follow these steps:
 
 Note: The script does not commit the configurations made, to avoid losing access to the firewall due to possible errors.
 
+
+## 📕 References
+
+[Palo Alto Networks PAN-OS SDK for Python](https://pan-os-python.readthedocs.io/en/latest/)
+
+[Palo Alto Networks PAN-OS SDK for Python Github](https://github.com/PaloAltoNetworks/pan-os-python)
+
+[Packetswitch PAN-OS-SDK for Python Article](https://www.packetswitch.co.uk/automating-palo-alto-firewalls-panorama-with-pan-os-python/)
+
+[Palo Alto Networks REST-API Guide](https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-panorama-api/get-started-with-the-pan-os-rest-api/access-the-rest-api#id0e536ca4-6154-4188-b70f-227c2c113ec4)
+
+[Palo Alto Nertworks REST-API TechDocs](https://docs.paloaltonetworks.com/develop/api#sort=relevancy&layout=card&numberOfResults=25)
+
 ## 🤝 Creator
 
 To people who contributed and created this project:
@@ -36,7 +49,7 @@ To people who contributed and created this project:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/in/fabiobarbtf/">
         <img src="https://avatars.githubusercontent.com/u/144133682" width="100px;" alt="Photo by Fábio Barbosa on GitHub"/><br>
         <sub>
           <b>Fábio Barbosa</b>
